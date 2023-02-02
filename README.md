@@ -1,2 +1,2 @@
 # Resume_WebSite
-Deployed Link : `https://avinashresume.netlify.app/`
+Deployed Link : https://avinashresume.netlify.app/
