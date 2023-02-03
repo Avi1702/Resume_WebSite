@@ -17,8 +17,9 @@ body{
 }
 pre{
     font-family: Arial, sans-serif;
-
 }
+
+/* Applying Css for left part of main container */
 #left{
     width: 38%;
     height: 100%;
@@ -29,12 +30,14 @@ pre{
     background-color: rgba(6, 1, 1, 0.979);
     color: aliceblue;
 }
+
+/* Css for the containers inside left part */
 #left>div{
-    /* border: 1px solid red; */
     width: 90%;
-    height: 23%
-   
+    height: 23%  
 }
+
+
 #left>div>h3,hr{
     margin-top: 7px;
     font-size:20px
@@ -63,7 +66,6 @@ span{
      width: 20px;
      height: 20px;
      margin-top: 15px;
-     /* border-color: aliceblue; */
 }
 hr{
     height: 1%;
